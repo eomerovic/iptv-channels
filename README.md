@@ -1,34 +1,18 @@
-# IPTV
+# SS-IPTV.COM
 
 Collection of 8000+ publicly available IPTV channels from all over the world. 
 
-Internet Protocol television (IPTV) is the delivery of television content over Internet Protocol (IP) networks. 
+Internet Protocol television (SSIPTV) is the delivery of television content over Internet Protocol (IP) networks. 
 
 ## Usage
 
 To watch IPTV you just need to paste this link `https://iptv-org.github.io/iptv/index.m3u` to any player with support M3U-playlists.
 
-![VLC Network Panel](preview.png)
+![NNetwork Panel](preview.png)
 
 Also you can instead use one of these playlists:
 
-- `https://iptv-org.github.io/iptv/index.country.m3u` (grouped by country)
-- `https://iptv-org.github.io/iptv/index.category.m3u` (grouped by category)
-- `https://iptv-org.github.io/iptv/index.language.m3u` (grouped by language)
-
-Or select one of the playlists from the list below.
-
-## Playlists by category
-
-<table>
-	<thead>
-		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
-	</thead>
-	<tbody>
-		<tr><td align="left">Auto</td><td align="right">2</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
-		<tr><td align="left">Business</td><td align="right">33</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
-		<tr><td align="left">Comedy</td><td align="right">3</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/comedy.m3u</code></td></tr>
-		<tr><td align="left">Documentary</td><td align="right">17</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
+-   n="right">17</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>  
 		<tr><td align="left">Education</td><td align="right">34</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/education.m3u</code></td></tr>
 		<tr><td align="left">Entertainment</td><td align="right">67</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/entertainment.m3u</code></td></tr>
 		<tr><td align="left">Family</td><td align="right">6</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/family.m3u</code></td></tr>
